@@ -1,0 +1,17 @@
+D:\LPNU\Chapter_6\TTPZ\Sproba1 - Copy\Sproba1\bin\Release\Sproba1.exe.config
+D:\LPNU\Chapter_6\TTPZ\Sproba1 - Copy\Sproba1\bin\Release\Sproba1.exe
+D:\LPNU\Chapter_6\TTPZ\Sproba1 - Copy\Sproba1\bin\Release\Sproba1.pdb
+D:\LPNU\Chapter_6\TTPZ\Sproba1 - Copy\Sproba1\bin\Release\aa-ER\Sproba1.resources.dll
+D:\LPNU\Chapter_6\TTPZ\Sproba1 - Copy\Sproba1\bin\Release\Newtonsoft.Json.dll
+D:\LPNU\Chapter_6\TTPZ\Sproba1 - Copy\Sproba1\bin\Release\Newtonsoft.Json.xml
+D:\LPNU\Chapter_6\TTPZ\Sproba1 - Copy\Sproba1\obj\Release\AutoSave.csproj.AssemblyReference.cache
+D:\LPNU\Chapter_6\TTPZ\Sproba1 - Copy\Sproba1\obj\Release\AutoSave.Form1.resources
+D:\LPNU\Chapter_6\TTPZ\Sproba1 - Copy\Sproba1\obj\Release\AutoSave.Form2.resources
+D:\LPNU\Chapter_6\TTPZ\Sproba1 - Copy\Sproba1\obj\Release\Sproba1.Properties.Resources.resources
+D:\LPNU\Chapter_6\TTPZ\Sproba1 - Copy\Sproba1\obj\Release\AutoSave.Form1.aa-ER.resources
+D:\LPNU\Chapter_6\TTPZ\Sproba1 - Copy\Sproba1\obj\Release\AutoSave.csproj.GenerateResource.cache
+D:\LPNU\Chapter_6\TTPZ\Sproba1 - Copy\Sproba1\obj\Release\AutoSave.csproj.CoreCompileInputs.cache
+D:\LPNU\Chapter_6\TTPZ\Sproba1 - Copy\Sproba1\obj\Release\aa-ER\Sproba1.resources.dll
+D:\LPNU\Chapter_6\TTPZ\Sproba1 - Copy\Sproba1\obj\Release\AutoSave.csproj.Up2Date
+D:\LPNU\Chapter_6\TTPZ\Sproba1 - Copy\Sproba1\obj\Release\Sproba1.exe
+D:\LPNU\Chapter_6\TTPZ\Sproba1 - Copy\Sproba1\obj\Release\Sproba1.pdb
